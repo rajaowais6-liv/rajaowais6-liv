@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub!
 ![WhatsApp Image 2026-04-02 at 16 11 59](https://github.com/user-attachments/assets/3131c027-8a3a-4378-929a-1e3b00163b87)
 
-Welcome to my GitHub!
 
-I'm a business student at Forman Christian College with a keen interest in the power of AI tools, prompt engineering, and how technology can transform brand identity design, business strategies, and marketing. I am passionate about leveraging artificial intelligence to streamline processes, enhance branding, and create cutting-edge solutions for businesses.
+I'm Owais, i a business student at Forman Christian College with a keen interest in the power of AI tools, prompt engineering, and how technology can transform brand identity design, business strategies, and marketing. I am passionate about leveraging artificial intelligence to streamline processes, enhance branding, and create cutting-edge solutions for businesses.
 
 Currently, I'm diving into AI-driven marketing tools, exploring prompt engineering, and experimenting with creative design tools like Adobe Illustrator and Canva to craft unique brand identities.
 
