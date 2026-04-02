@@ -1,4 +1,5 @@
 ## Hi there 👋
+![WhatsApp Image 2026-04-02 at 16 11 59](https://github.com/user-attachments/assets/3131c027-8a3a-4378-929a-1e3b00163b87)
 
 Welcome to my GitHub!
 
